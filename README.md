@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, explore the world and videogames
 - 🌱 I’m currently learning HTML, CSS and JavaScript (Angular)
 - 💞️ I’m looking to collaborate on privat and opensource projects
-- 📫 How to reach me via e-mail or LinkedIn
+- 📫 You can reach me via e-mail or LinkedIn
 
 <!---
 KolbeLukas/KolbeLukas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
